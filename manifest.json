@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "oven-sh",
+  "repo": "bun-development-docker-image",
+  "versions": [
+    {
+      "commit": "88381bd1b6d41350622df2594e9656549620a0a8",
+      "parsed_at": "2026-10-10T13:03:58.289176+00:00",
+      "filetree": "filetree/88381bd1b6d41350622df2594e9656549620a0a8.nq.gz",
+      "blobs": [
+        "blob/93be3745595c3199bf1a1168b5ca658fda09cf11.nq.gz",
+        "blob/db4112bdb4b6cd2c9083d7b547584a8afcddec0a.nq.gz",
+        "blob/31d100b1900c9db3b18de01a0ccb8c14b9e54340.nq.gz",
+        "blob/b1976e9525503463c4da5669e0ba8e5596b3b530.nq.gz",
+        "blob/47df7d291700335a8ddb8a3980c0a89b3f1ded3d.nq.gz",
+        "blob/1f139fb92f8f86e9dcf11885700a10fdaa4c5087.nq.gz",
+        "blob/87f68d10e7f9539a9e071119be60cfecb66c5d3a.nq.gz",
+        "blob/f6082c071aaf22f1c3e904df7eeaa2e497673df9.nq.gz",
+        "blob/607f80b7f7a3e67aad6911fb489a872e486b3337.nq.gz",
+        "blob/c1b3cc258a4d9ceca21c02d54a861b56174127e2.nq.gz",
+        "blob/2b01bb3cbe7f8be62e097ccd4b9f4640e4e46ef8.nq.gz",
+        "blob/64ab9ba1f92a85300a66a704f97f4ad8a1a8b34b.nq.gz",
+        "blob/aea7384a07b16cd9e99714d1435c1a54df3de265.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
