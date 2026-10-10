@@ -1,0 +1,11 @@
+{
+  "org": "oven-sh",
+  "repo": "bun-development-docker-image",
+  "versions": [
+    {
+      "commit": "88381bd1b6d41350622df2594e9656549620a0a8",
+      "tag": "",
+      "parsed_at": "2026-10-10T13:08:48.485478+00:00"
+    }
+  ]
+}
